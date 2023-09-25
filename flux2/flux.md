@@ -232,6 +232,7 @@ kubectl get deployment/kubecit-service -oyaml | grep 'image:'
 ### 小结
 至此，使用Flux2实现docker镜像更新至仓库后自动部署到Kubernetes集群的cd流程已经实现。
 
-
+仓库链接：
 https://github.com/lbzss/flux-kubecit-service
+参考文档：
 https://fluxcd.io/flux/guides/image-update/
