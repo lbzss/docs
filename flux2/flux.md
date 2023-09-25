@@ -234,5 +234,6 @@ kubectl get deployment/kubecit-service -oyaml | grep 'image:'
 
 仓库链接：
 https://github.com/lbzss/flux-kubecit-service
+
 参考文档：
 https://fluxcd.io/flux/guides/image-update/
