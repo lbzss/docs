@@ -20,7 +20,7 @@ Flux是云原生基金会CNCF的毕业项目，被众多组织和云提供商广
   - Kustomization CRD
 - Helm Controller
   ![img_4.png](img_4.png)
-  Helm Controller是一个Kubernetes的另一种oreator，允许用户使用Kubernetes清单声明式地管理Helm资源的发布
+  Helm Controller是一个Kubernetes的另一种operator，允许用户使用Kubernetes清单声明式地管理Helm资源的发布
   - HelmRelease CRD
 - Notification Controller
   专门用于处理南北向事件
